@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="/" target="_blank">
-      <img src="https://i.ibb.co/wR9G2k3/Readme-Thumbnail.png" alt="Project Banner">
+      <img src="/public/store_it.png" alt="Project Banner">
     </a>
   <br />
 
